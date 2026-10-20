@@ -29,6 +29,8 @@ Haftalık çalışmalarım ve laboratuvar notlarım.
 - **Yapılan Çalışma:** belirlenen paket boyutlarına göre aşamalı veri alımı
 - ### Ekran Görüntüleri
 - ![Hafta 5](./hafta-5.png)
-- <img width="1536" height="2048" alt="hafta-5-2" src="https://github.com/user-attachments/assets/eb1b2995-a369-4408-a5fd-f8aea60d629f" />
-![Hafta 5-2](./hafta-5-2.png)
-<img width="1536" height="2048" alt="hafta-5" src="https://github.com/user-attachments/assets/32f6914b-5758-4d7b-936b-28aef538f5f6" />
+<img width="1152" height="2048" alt="hafta-5" src="https://github.com/user-attachments/assets/10ec3db0-4c85-4033-98db-308bfaff3eab" />
+
+![Hafta 5-1](./hafta-5-1.png)
+<img width="1152" height="2048" alt="hafta-5-1" src="https://github.com/user-attachments/assets/bf1679e4-0995-47cd-803c-966673a23f8b" />
+
