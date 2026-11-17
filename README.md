@@ -38,13 +38,13 @@ Haftalık çalışmalarım ve laboratuvar notlarım.
 **Ortam:** Oracle VirtualBox - Kali Linux
 - **Yapılan Çalışma:** scapy kullanarak özel ıcmp paketi oluşturma 
 - ### Ekran Görüntüleri
-- ![scapy](./scapy_ıcmp1.png)
+
 - <img width="1600" height="900" alt="scapy_ıcmp1 png" src="https://github.com/user-attachments/assets/88caaeea-d5de-4a21-9394-e9d2508c710a" />
-![scapy](./scapy_ıcmp2.png)
+
 <img width="1600" height="900" alt="scapy_ıcmp2 png" src="https://github.com/user-attachments/assets/aa87e06f-d1b9-4a0d-9900-0e6912e39879" />
-![scapy](./scapy_ıcmp3.png)
+
 <img width="1600" height="900" alt="scapy_ıcmp3 png" src="https://github.com/user-attachments/assets/39cb033a-aa94-4d73-9ca9-be6508f4c6a9" />
-![scapy](./scapy_ıcmp4.png
+
 <img width="1600" height="900" alt="scapy_ıcmp4 png" src="https://github.com/user-attachments/assets/090086ac-7147-4638-8917-7b6d01820f19" />
 
 
