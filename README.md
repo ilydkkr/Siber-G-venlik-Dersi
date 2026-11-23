@@ -49,13 +49,15 @@ Haftalık çalışmalarım ve laboratuvar notlarım.
 
 ## : Server-Client
 **Ortam:** pycharm - wireshark
- **Yapılan Çalışma:** server ve client arası toplama çıkartma işlemi
- <img width="1120" height="637" alt="çikartma1 png" src="https://github.com/user-attachments/assets/693b5c20-ad93-442b-9db0-a32d521af004" />
- <img width="1160" height="626" alt="çikartma2 png" src="https://github.com/user-attachments/assets/916c5ff7-985e-4232-a187-01eabc703cd7" />
-<img width="1600" height="899" alt="toplama1 png" src="https://github.com/user-attachments/assets/df171404-01ef-4114-81dc-52eba1056dae" />
-<img width="1600" height="897" alt="toplama2 png" src="https://github.com/user-attachments/assets/17491edb-f330-4b58-9e69-24faaf6900a3" />
-<img width="1185" height="649" alt="sonuc1 png" src="https://github.com/user-attachments/assets/d9319106-a693-4e27-934e-e50aafbec7ca" />
-<img width="1600" height="625" alt="sonuc2 png" src="https://github.com/user-attachments/assets/1e8e4e93-c8f3-439d-941a-eea6d0cd198d" />
+ **Yapılan Çalışma:** server ve client arası çarpma çıkartma işlemi
+ ![Uploading sonuc2c.png.jpeg…]()
+<img width="1185" height="649" alt="sonuc1 png" src="https://github.com/user-attachments/assets/d67e9433-8598-4e3b-a6bd-b879be66dddd" />
+<img width="1160" height="626" alt="cikartma2 png" src="https://github.com/user-attachments/assets/1522bad5-f62e-4340-9fa2-25c55da0b1dc" />
+<img width="1120" height="637" alt="cikartma1 png" src="https://github.com/user-attachments/assets/b1f6af72-122a-425b-8cab-dcaa9c385a62" />
+<img width="967" height="636" alt="carpma2 png" src="https://github.com/user-attachments/assets/1a34159c-8cb0-48e2-9e34-fa3dc9597a65" />
+<img width="1071" height="616" alt="carpma1 png" src="https://github.com/user-attachments/assets/986581a9-365c-40ff-84e4-0d25273426a2" />
+
+
 
 
 
