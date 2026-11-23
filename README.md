@@ -57,7 +57,7 @@ Haftalık çalışmalarım ve laboratuvar notlarım.
 <img width="1120" height="637" alt="cikartma1 png" src="https://github.com/user-attachments/assets/b1f6af72-122a-425b-8cab-dcaa9c385a62" />
 <img width="967" height="636" alt="carpma2 png" src="https://github.com/user-attachments/assets/1a34159c-8cb0-48e2-9e34-fa3dc9597a65" />
 <img width="1071" height="616" alt="carpma1 png" src="https://github.com/user-attachments/assets/986581a9-365c-40ff-84e4-0d25273426a2" />
-<img width="1206" height="648" alt="sonuc2c png" src="https://github.com/user-attachments/assets/0db6ad00-91cb-4dda-9de7-bb5cbb953855" />
+
 
 
 
