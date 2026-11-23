@@ -47,6 +47,20 @@ Haftalık çalışmalarım ve laboratuvar notlarım.
 
 <img width="1600" height="900" alt="scapy_ıcmp4 png" src="https://github.com/user-attachments/assets/090086ac-7147-4638-8917-7b6d01820f19" />
 
+## : Server-Client
+**Ortam:** pycharm - wireshark
+ **Yapılan Çalışma:** server ve client arası toplama çıkartma işlemi
+ <img width="1120" height="637" alt="çikartma1 png" src="https://github.com/user-attachments/assets/693b5c20-ad93-442b-9db0-a32d521af004" />
+ <img width="1160" height="626" alt="çikartma2 png" src="https://github.com/user-attachments/assets/916c5ff7-985e-4232-a187-01eabc703cd7" />
+<img width="1600" height="899" alt="toplama1 png" src="https://github.com/user-attachments/assets/df171404-01ef-4114-81dc-52eba1056dae" />
+<img width="1600" height="897" alt="toplama2 png" src="https://github.com/user-attachments/assets/17491edb-f330-4b58-9e69-24faaf6900a3" />
+<img width="1185" height="649" alt="sonuc1 png" src="https://github.com/user-attachments/assets/d9319106-a693-4e27-934e-e50aafbec7ca" />
+<img width="1600" height="625" alt="sonuc2 png" src="https://github.com/user-attachments/assets/1e8e4e93-c8f3-439d-941a-eea6d0cd198d" />
+
+
+
+
+
 
 
 
