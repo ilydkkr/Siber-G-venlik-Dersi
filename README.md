@@ -58,6 +58,11 @@ Haftalık çalışmalarım ve laboratuvar notlarım.
 <img width="967" height="636" alt="carpma2 png" src="https://github.com/user-attachments/assets/1a34159c-8cb0-48e2-9e34-fa3dc9597a65" />
 <img width="1071" height="616" alt="carpma1 png" src="https://github.com/user-attachments/assets/986581a9-365c-40ff-84e4-0d25273426a2" />
 
+## : Network Programming
+**Ortam:** http.bin.org da console kısmı
+**Yapılan Çalışma:**Web protokolleri ve veri iletimi kapsamında HTTP istekleri (GET/POST), karakter kodlama (UTF-8/Base64), veri serileştirme (JSON) ve sıkıştırma başlıklarının (gzip/Brotli) temel uygulamaları.<img width="1536" height="2048" alt="WhatsApp Image 2026-11-24 at 14 24 20" src="https://github.com/user-attachments/assets/39f7f325-e29d-479d-a10b-8dd8c70eb5ce" />
+<img width="1536" height="2048" alt="WhatsApp Image 2026-11-24 at 14 24 20 (1)" src="https://github.com/user-attachments/assets/6eea3ecf-5ce5-4d78-8aeb-e6479948a7d1" />
+
 
 
 
